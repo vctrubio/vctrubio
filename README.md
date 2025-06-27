@@ -32,8 +32,7 @@
 </div>
 
 
-## 📫 Reach Out
-Got a Web3 project? Hit me up:  
+## 📫 Contact
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <a href="mailto:dev@donkeydrills.com"><img src="https://img.shields.io/badge/Email-dev@donkeydrills.com-00008B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/donkeydrills"><img src="https://img.shields.io/badge/X-donkeydrills-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
