@@ -1,9 +1,6 @@
 # VCTRUBIO
 **Full Stack Developer** Interest in the backend,
 
-## Todays Interests
-- **Token Economy**: Use cases for smart contract development. 
-- **User Experience**: Understanding the market.
 
 ## 🛠️ Skills & Stats
 <div style="display: flex; gap: 16px; flex-wrap: wrap;">
