@@ -11,10 +11,9 @@ Welcome to my GitHub profile repository! This is a collection of technology logo
 
 ## Languages
 
-<img src="logotype/python.png" alt="Python" width="40" height="40">
-
-<img src="logotype/javascript.png" alt="JavaScript" width="40" height="40"> <img src="logotype/typescript.png" alt="TypeScript" width="40" height="40">
-
-<img src="logotype/ethereum.png" alt="Solidity" width="40" height="40">
-
-<img src="logotype/c.png" alt="C" width="40" height="40"> <img src="logotype/cplusplus.png" alt="C++" width="40" height="40">
+<ul style="list-style: none; padding: 0; font-family: 'SF Mono', 'Monaco', 'Roboto Mono', monospace;">
+  <li style="padding: 8px 0; border-left: 4px solid #3b82f6; padding-left: 12px; margin: 4px 0; background: rgba(59, 130, 246, 0.05);">🐍 Python</li>
+  <li style="padding: 8px 0; border-left: 4px solid #f59e0b; padding-left: 12px; margin: 4px 0; background: rgba(245, 158, 11, 0.05);">⚡ JavaScript & TypeScript</li>
+  <li style="padding: 8px 0; border-left: 4px solid #8b5cf6; padding-left: 12px; margin: 4px 0; background: rgba(139, 92, 246, 0.05);">💎 Solidity</li>
+  <li style="padding: 8px 0; border-left: 4px solid #ef4444; padding-left: 12px; margin: 4px 0; background: rgba(239, 68, 68, 0.05);">⚙️ C & C++</li>
+</ul>
