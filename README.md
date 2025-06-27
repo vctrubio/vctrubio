@@ -1,19 +1,43 @@
 # VCTRUBIO
+**Full Stack Developer** Interest in the backend,
 
-Welcome to my GitHub profile repository! This is a collection of technology logos and branding assets.
+## Todays Interests
+- **Token Economy**: Use cases for smart contract development. 
+- **User Experience**: Understanding the market.
 
-## Featured Repositories
+## 🛠️ Skills & Stats
+<div style="display: flex; gap: 16px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 200px;">
+    <h3>Languages</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+    </div>
+  </div>
+  <div style="flex: 1; min-width: 200px;">
+    <h3>Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrubio&layout=compact&theme=dracula&hide=Markdown" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=vctrubio&show_icons=true&theme=dracula" alt="GitHub Stats">
+    <img src="https://komarev.com/ghpvc/?username=vctrubio&color=brightgreen" alt="Profile Views">
+  </div>
+</div>
 
-- [vctrubio/lhs_final](https://github.com/vctrubio/lhs_final) - Final project for LHS
-- [vctrubio/fabio-compass](https://github.com/vctrubio/fabio-compass) - Fabio compass application
-- [vctrubio/compass-server](https://github.com/vctrubio/compass-server) - Server for compass application
-- [vctrubio/w3-playground-finale](https://github.com/vctrubio/w3-playground-finale) - Web3 development playground
+## 🛠️ Tools
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Hardhat-F9D03B?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat">
+</div>
 
-## Languages
 
-<ul style="list-style: none; padding: 0; font-family: 'SF Mono', 'Monaco', 'Roboto Mono', monospace;">
-  <li style="padding: 8px 0; border-left: 4px solid #3b82f6; padding-left: 12px; margin: 4px 0; background: rgba(59, 130, 246, 0.05);">🐍 Python</li>
-  <li style="padding: 8px 0; border-left: 4px solid #f59e0b; padding-left: 12px; margin: 4px 0; background: rgba(245, 158, 11, 0.05);">⚡ JavaScript & TypeScript</li>
-  <li style="padding: 8px 0; border-left: 4px solid #8b5cf6; padding-left: 12px; margin: 4px 0; background: rgba(139, 92, 246, 0.05);">💎 Solidity</li>
-  <li style="padding: 8px 0; border-left: 4px solid #ef4444; padding-left: 12px; margin: 4px 0; background: rgba(239, 68, 68, 0.05);">⚙️ C & C++</li>
-</ul>
+## 📫 Reach Out
+Got a Web3 project? Hit me up:  
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <a href="mailto:dev@donkeydrills.com"><img src="https://img.shields.io/badge/Email-dev@donkeydrills.com-00008B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/donkeydrills"><img src="https://img.shields.io/badge/X-donkeydrills-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+</div>
