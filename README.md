@@ -16,12 +16,7 @@
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
     </div>
   </div>
-  <div style="flex: 1; min-width: 200px;">
-    <h3>Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrubio&layout=compact&theme=dracula&hide=Markdown" alt="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=vctrubio&show_icons=true&theme=dracula" alt="GitHub Stats">
-    <img src="https://komarev.com/ghpvc/?username=vctrubio&color=brightgreen" alt="Profile Views">
-  </div>
+
 </div>
 
 ## 🛠️ Tools
