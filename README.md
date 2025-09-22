@@ -1,4 +1,4 @@
-**NVIM** geek specializing in web'3 backend architecture and program optimisation. From offchain storage to onchain transactions, I'm trained in Ethereum Virtual Machine development. Smart contract and DAO development is what I'm passionate about. Past experience includes web applications, data processing, and database architecture. 
+## **NVIM** geek specializing in web3 backend architecture and program optimisation. From offchain storage to onchain transactions, I'm trained in EVM development with a special focus on smart contracts and DAOs. Past experience includes web applications, data processing, and database architecture.
 
 
 ## 🛠️ Skills & Stats
