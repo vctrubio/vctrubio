@@ -1,4 +1,3 @@
-# VCTRUBIO
 **Full Stack Developer** specializing in web3 backend architecture. From offchain storage to onchain transactions, I'm trained in Ethereum Virtual Machine development. Smart contract and DAO development is what I'm passionate about. Past experience includes web applications, data processing, and database architecture. 
 
 
