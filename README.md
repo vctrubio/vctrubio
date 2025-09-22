@@ -29,10 +29,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </div>
 
-
-## 📫 Contact
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="mailto:dev@donkeydrills.com"><img src="https://img.shields.io/badge/Email-dev@donkeydrills.com-00008B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://x.com/donkeydrills"><img src="https://img.shields.io/badge/X-donkeydrills-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://donkeydrills.com"><img src="https://img.shields.io/badge/Website-donkeydrills.com-0A0A23?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"></a>
-</div>
